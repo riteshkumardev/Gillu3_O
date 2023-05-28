@@ -18,14 +18,12 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCivmHHTVT7FpFT0xAJpI89Rvji64l5s1c", 
-   
   authDomain: "gillu3-o.firebaseapp.com",
   projectId: "gillu3-o",
   storageBucket: "gillu3-o.appspot.com",
   messagingSenderId: "527830563448",
   appId: "1:527830563448:web:ad0a080c1393ea6a0acb8d",
   measurementId: "G-EZNGW8QX6Y",
-
     databaseURL:
       "https://gillu3-o-default-rtdb.firebaseio.com",
 
